@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "license": "ISC",
   "devDependencies": {
